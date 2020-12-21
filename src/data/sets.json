@@ -39,7 +39,7 @@
   },
   {
     "id": "142",
-    "title": "Honeymoon Killers",
+    "title": "Rosemary",
     "publicationID": "MIXTE",
     "date": {
       "year": 2000,
@@ -77,8 +77,8 @@
   },
   {
     "id": "144",
-    "title": "Rose",
-    "publicationID": "PENTHOUSE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -115,8 +115,8 @@
   },
   {
     "id": "145",
-    "title": "Killing Machine",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -153,15 +153,15 @@
   },
   {
     "id": "146",
-    "title": "Colour me Ultra",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
       "period": 1,
       "day": 1
     },
-    "dateIsApprox": true,
+    "dateIsApprox": false,
     "isFashion": true,
     "isActor": false,
     "isMusician": false,
@@ -191,8 +191,8 @@
   },
   {
     "id": "147",
-    "title": "Ciedils",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -229,8 +229,8 @@
   },
   {
     "id": "148",
-    "title": "GOTHS ON ACID",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -267,8 +267,8 @@
   },
   {
     "id": "149",
-    "title": "Modern Lovers",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -305,8 +305,8 @@
   },
   {
     "id": "150",
-    "title": "Clarence Ave",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -343,8 +343,8 @@
   },
   {
     "id": "151",
-    "title": "In it together",
-    "publicationID": "RAYGUN",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -381,8 +381,8 @@
   },
   {
     "id": "153",
-    "title": "Kate Cover",
-    "publicationID": "TIMEOUT",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -419,8 +419,8 @@
   },
   {
     "id": "154",
-    "title": "Diamond Georgina",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -457,8 +457,8 @@
   },
   {
     "id": "155",
-    "title": "Here's looking at you kid - Sofia Coppola",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -467,7 +467,7 @@
     },
     "dateIsApprox": false,
     "isFashion": true,
-    "isActor": true,
+    "isActor": false,
     "isMusician": false,
     "images": [
       {
@@ -495,8 +495,8 @@
   },
   {
     "id": "156",
-    "title": "The morning after the year before...",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -533,8 +533,8 @@
   },
   {
     "id": "157",
-    "title": "CASTAWAY Angela Lindvall",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -571,8 +571,8 @@
   },
   {
     "id": "158",
-    "title": "island Life",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -609,8 +609,8 @@
   },
   {
     "id": "159",
-    "title": "Natalie Portman",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -619,7 +619,7 @@
     },
     "dateIsApprox": false,
     "isFashion": true,
-    "isActor": true,
+    "isActor": false,
     "isMusician": false,
     "images": [
       {
@@ -647,8 +647,8 @@
   },
   {
     "id": "160",
-    "title": "Scent Crazy",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -685,8 +685,8 @@
   },
   {
     "id": "161",
-    "title": "Californian girl",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -723,8 +723,8 @@
   },
   {
     "id": "162",
-    "title": "Tilda Swinton",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -733,7 +733,7 @@
     },
     "dateIsApprox": false,
     "isFashion": true,
-    "isActor": true,
+    "isActor": false,
     "isMusician": false,
     "images": [
       {
@@ -761,8 +761,8 @@
   },
   {
     "id": "163",
-    "title": "To hug and to hold - Linda Evangelista",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -799,8 +799,8 @@
   },
   {
     "id": "164",
-    "title": "Starry Evening Look",
-    "publicationID": "VOGUE_IT",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -837,8 +837,8 @@
   },
   {
     "id": "166",
-    "title": "Emanuel Ungaro Couture",
-    "publicationID": "VOGUE_IT",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -875,8 +875,8 @@
   },
   {
     "id": "167",
-    "title": "Daria Werbowy",
-    "publicationID": "VOGUE_IT",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -913,8 +913,8 @@
   },
   {
     "id": "168",
-    "title": "Jane Birkin",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -923,7 +923,7 @@
     },
     "dateIsApprox": false,
     "isFashion": true,
-    "isActor": true,
+    "isActor": false,
     "isMusician": false,
     "images": [
       {
@@ -951,8 +951,8 @@
   },
   {
     "id": "169",
-    "title": "Tribal Gathering",
-    "publicationID": "10_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -989,8 +989,8 @@
   },
   {
     "id": "172",
-    "title": "",
-    "publicationID": "DAZED_AND_CONFUSED",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1027,8 +1027,8 @@
   },
   {
     "id": "173",
-    "title": "Lusso Italiano e Gusto Inglese",
-    "publicationID": "DONNA",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1065,8 +1065,8 @@
   },
   {
     "id": "174",
-    "title": "Blackpool",
-    "publicationID": "DUTCH_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1103,8 +1103,8 @@
   },
   {
     "id": "175",
-    "title": "Vincent Gallo",
-    "publicationID": "DUTCH_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1113,7 +1113,7 @@
     },
     "dateIsApprox": false,
     "isFashion": true,
-    "isActor": true,
+    "isActor": false,
     "isMusician": false,
     "images": [
       {
@@ -1141,8 +1141,8 @@
   },
   {
     "id": "176",
-    "title": "Stinky Finger",
-    "publicationID": "DUTCH_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1179,8 +1179,8 @@
   },
   {
     "id": "177",
-    "title": "Red Hot Chili Peppers Rock 'n' Roll",
-    "publicationID": "FACE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1190,7 +1190,7 @@
     "dateIsApprox": false,
     "isFashion": true,
     "isActor": false,
-    "isMusician": true,
+    "isMusician": false,
     "images": [
       {
         "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
@@ -1217,8 +1217,8 @@
   },
   {
     "id": "179",
-    "title": "YOUNG STYLE REBELS",
-    "publicationID": "FACE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1255,8 +1255,8 @@
   },
   {
     "id": "181",
-    "title": "Keeping it real",
-    "publicationID": "FACE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1293,8 +1293,8 @@
   },
   {
     "id": "182",
-    "title": "Jamaique Safari",
-    "publicationID": "VOGUE_FR",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1331,8 +1331,8 @@
   },
   {
     "id": "183",
-    "title": "The Smart Issue",
-    "publicationID": "ID",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1369,8 +1369,8 @@
   },
   {
     "id": "186",
-    "title": "The Original Issue - Erika",
-    "publicationID": "ID",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1407,8 +1407,8 @@
   },
   {
     "id": "187",
-    "title": "The Physical Issue",
-    "publicationID": "ID",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1445,8 +1445,8 @@
   },
   {
     "id": "188",
-    "title": "The Screen Issue",
-    "publicationID": "ID",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1483,8 +1483,8 @@
   },
   {
     "id": "189",
-    "title": "The Talent Issue",
-    "publicationID": "ID",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1521,8 +1521,8 @@
   },
   {
     "id": "191",
-    "title": "Rude Girls",
-    "publicationID": "DONNA",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1559,8 +1559,8 @@
   },
   {
     "id": "193",
-    "title": "Fashion's New Spirit",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1597,8 +1597,8 @@
   },
   {
     "id": "194",
-    "title": "Sweet and Lowdown",
-    "publicationID": "VOGUE_UK",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1635,8 +1635,8 @@
   },
   {
     "id": "196",
-    "title": "Porque te vas?",
-    "publicationID": "VOGUE_FR",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1673,8 +1673,8 @@
   },
   {
     "id": "198",
-    "title": "",
-    "publicationID": "10_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1711,8 +1711,8 @@
   },
   {
     "id": "199",
-    "title": "Mums",
-    "publicationID": "10_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1749,8 +1749,8 @@
   },
   {
     "id": "201",
-    "title": "",
-    "publicationID": "ARENA_HOMME_PLUS",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1787,8 +1787,8 @@
   },
   {
     "id": "202",
-    "title": "Taking it easy",
-    "publicationID": "VOGUE_US",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1825,8 +1825,8 @@
   },
   {
     "id": "203",
-    "title": "Barneys New York",
-    "publicationID": "BARNEYS",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1863,8 +1863,8 @@
   },
   {
     "id": "204",
-    "title": "Tokyo Decadance",
-    "publicationID": "DONNA",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1901,8 +1901,8 @@
   },
   {
     "id": "207",
-    "title": "Youth Camp",
-    "publicationID": "DUTCH_MAGAZINE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1939,8 +1939,8 @@
   },
   {
     "id": "209",
-    "title": "Wah Wah",
-    "publicationID": "FACE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
@@ -1977,8 +1977,8 @@
   },
   {
     "id": "210",
-    "title": "Psycho Billy",
-    "publicationID": "FACE",
+    "title": "Rosemary",
+    "publicationID": "MIXTE",
     "date": {
       "year": 2000,
       "month": 12,
