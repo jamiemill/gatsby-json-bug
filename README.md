@@ -29,3 +29,4 @@ GENERATION FINISHED
 I suspect this is related to the IDs used in the JSON files, and the interaction between press.json and sets.json.
 - If I delete the sets.json file, there's no problem querying and generating press pages.
 - If I make the IDs in sets.json non-overlapping with press.json by prefixing the IDs in sets.json with "set-", the problem goes away.
+- The record that doesn't disappear from the Press data happens to be the only press record with an ID *not* present in sets.json.
