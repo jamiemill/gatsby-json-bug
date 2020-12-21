@@ -1,46 +1,5 @@
 const resolve = require("path").resolve;
 
-// // Define the DateObj because if all days are null, Gatsby infers that they'll always be null and removes the field.
-// exports.createSchemaCustomization = ({ actions }) => {
-//   const { createTypes } = actions
-//   const typeDefs = `
-//     type SetsJson implements Node {
-//       date: DateObj
-//     }
-//     type DateObj {
-//       year: Int,
-//       month: Int,
-//       period: String,
-//       day: Int
-//     }
-//     type PressJson implements Node {
-//       date: DateObj
-//     }
-//   `
-//   createTypes(typeDefs)
-// }
-
-// export const onCreateNode = ({ node, getNode, actions }) => {
-//   const { createNodeField } = actions
-
-//   if (node.internal.type === `SetsJson`) {
-//     const slug = `/sets/${node.id}/`
-//     createNodeField({
-//       node,
-//       name: `slug`,
-//       value: slug,
-//     })
-//   }
-//   if (node.internal.type === `ExhibitionsJson`) {
-//     const slug = `/exhibitions/${node.id}/`
-//     createNodeField({
-//       node,
-//       name: `slug`,
-//       value: slug,
-//     })
-//   }
-// }
-
 module.exports.createPages = async function({ graphql, actions, reporter }) {
   const { createPage } = actions
 
@@ -76,9 +35,9 @@ const generatePressPages = async (graphql, createPage, reporter) => {
     return
   }
 
-  console.log("Press:"+result.data.allPressJson.nodes.length);
+  console.log("Press records found: "+result.data.allPressJson.nodes.length);
   result.data.allPressJson.nodes.forEach(node => {
-    console.log("Press:createPage");
+    console.log("Press: createPage #"+node.id);
     createPage({
       path: `/press/${node.id}/`,
       component: resolve(`src/templates/press-story.jsx`),
@@ -88,6 +47,6 @@ const generatePressPages = async (graphql, createPage, reporter) => {
       },
     })
   })
-  console.log("Press:pagesCreated");
+  console.log("Press pages created");
 
 }
