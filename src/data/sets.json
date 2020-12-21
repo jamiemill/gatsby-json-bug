@@ -15,59 +15,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "141--1--MIXTE+DEC+2000+Rosemary+1.jpg",
-        "sourcePath": "141--1--MIXTE+DEC+2000+Rosemary+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "141--2--MIXTE+DEC+2000+Rosemary+2.jpg",
-        "sourcePath": "141--2--MIXTE+DEC+2000+Rosemary+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "141--3--MIXTE+DEC+2000+Rosemary+3.jpg",
-        "sourcePath": "141--3--MIXTE+DEC+2000+Rosemary+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "141--4--MIXTE+DEC+2000+Rosemary+4.jpg",
-        "sourcePath": "141--4--MIXTE+DEC+2000+Rosemary+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "141--5--MIXTE+DEC+2000+Rosemary+5.jpg",
-        "sourcePath": "141--5--MIXTE+DEC+2000+Rosemary+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "141--6--MIXTE+DEC+2000+Rosemary+6.jpg",
-        "sourcePath": "141--6--MIXTE+DEC+2000+Rosemary+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "141--7--MIXTE+DEC+2000+Rosemary+7.jpg",
-        "sourcePath": "141--7--MIXTE+DEC+2000+Rosemary+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "141--8--MIXTE+DEC+2000+Rosemary+8.jpg",
-        "sourcePath": "141--8--MIXTE+DEC+2000+Rosemary+8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
         "isCover": false
       }
     ]
@@ -88,66 +53,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 1.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "142--3--Honeymoonkillers+3.jpg",
-        "sourcePath": "142--3--Honeymoonkillers+3.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 2.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 3.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 3.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 4.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 5.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 6.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 7.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "MIXTE October 2003 HONEYMOON KILLERS 8.jpeg",
-        "sourcePath": "MIXTE October 2003 HONEYMOON KILLERS/MIXTE October 2003 HONEYMOON KILLERS 8.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
         "isCover": false
       }
     ]
@@ -168,45 +91,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "144--1--EOM0001N_19.jpg",
-        "sourcePath": "144--1--EOM0001N_19.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "144--2--PENTHOUSE+Rose+in+the+lake.jpg",
-        "sourcePath": "144--2--PENTHOUSE+Rose+in+the+lake.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "144--3--Penthouse+Rose+Sept+1997+1.jpg",
-        "sourcePath": "144--3--Penthouse+Rose+Sept+1997+1.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "144--4--Penthouse+Rose+Sept+1997+3.jpg",
-        "sourcePath": "144--4--Penthouse+Rose+Sept+1997+3.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "144--5--Penthouse+Rose+Sept+1997.jpg",
-        "sourcePath": "144--5--Penthouse+Rose+Sept+1997.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "144--6--PENTHOUSE+Rose+sunset+and+blanket.jpg",
-        "sourcePath": "144--6--PENTHOUSE+Rose+sunset+and+blanket.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -265,17 +167,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "146--1--RAYGUN+1.jpg",
-        "sourcePath": "146--1--RAYGUN+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "146--2--RAYGUN+2.jpg",
-        "sourcePath": "146--2--RAYGUN+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
         "isCover": false
       }
     ]
@@ -296,73 +205,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "147--1--Raygun+page+1.jpg",
-        "sourcePath": "147--1--Raygun+page+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "147--2--Raygun+page+2.jpg",
-        "sourcePath": "147--2--Raygun+page+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "147--3--Raygun+page+3..jpg",
-        "sourcePath": "147--3--Raygun+page+3..jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "147--4--Raygun+page+4.jpg",
-        "sourcePath": "147--4--Raygun+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "147--5--Raygun+page+5-6.jpg",
-        "sourcePath": "147--5--Raygun+page+5-6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "147--6--Raygun+page+5A.jpg",
-        "sourcePath": "147--6--Raygun+page+5A.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "147--7--Raygun+page+5B.jpg",
-        "sourcePath": "147--7--Raygun+page+5B.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "147--8--Raygun+page+6B.jpg",
-        "sourcePath": "147--8--Raygun+page+6B.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "147--9--Raygun+page+6C.jpg",
-        "sourcePath": "147--9--Raygun+page+6C.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "147--10--Raygun+page+6D.jpg",
-        "sourcePath": "147--10--Raygun+page+6D.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
         "isCover": false
       }
     ]
@@ -383,115 +243,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "148--1--Raygun+page+1.jpg",
-        "sourcePath": "148--1--Raygun+page+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "148--2--Raygun+page+1A+crop.jpg",
-        "sourcePath": "148--2--Raygun+page+1A+crop.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "148--3--Raygun+page+1B+Chip+fangs.jpg",
-        "sourcePath": "148--3--Raygun+page+1B+Chip+fangs.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "148--4--Raygun+page+2.jpg",
-        "sourcePath": "148--4--Raygun+page+2.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "148--5--Raygun+page+3.jpg",
-        "sourcePath": "148--5--Raygun+page+3.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "148--6--Raygun+page+3A.jpg",
-        "sourcePath": "148--6--Raygun+page+3A.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "148--7--Raygun+page+3B.jpg",
-        "sourcePath": "148--7--Raygun+page+3B.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "148--8--Raygun+page+3C.jpg",
-        "sourcePath": "148--8--Raygun+page+3C.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "148--9--Raygun+page+4.jpg",
-        "sourcePath": "148--9--Raygun+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "148--10--Raygun+page+4A.jpg",
-        "sourcePath": "148--10--Raygun+page+4A.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "148--11--Raygun+page+5.jpg",
-        "sourcePath": "148--11--Raygun+page+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "148--12--Raygun+page+5A.jpg",
-        "sourcePath": "148--12--Raygun+page+5A.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 12,
-        "isCover": false
-      },
-      {
-        "filename": "148--13--Raygun+page+6.jpg",
-        "sourcePath": "148--13--Raygun+page+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 13,
-        "isCover": false
-      },
-      {
-        "filename": "148--14--Raygun+page+6A.jpg",
-        "sourcePath": "148--14--Raygun+page+6A.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 14,
-        "isCover": false
-      },
-      {
-        "filename": "148--15--Raygun+page+6B.jpg",
-        "sourcePath": "148--15--Raygun+page+6B.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 15,
-        "isCover": false
-      },
-      {
-        "filename": "148--16--Raygun+page+6C.jpg",
-        "sourcePath": "148--16--Raygun+page+6C.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 16,
         "isCover": false
       }
     ]
@@ -512,23 +281,23 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "149--1--RAYGUN+1.jpg",
-        "sourcePath": "149--1--RAYGUN+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "149--2--RAYGUN+2.jpg",
-        "sourcePath": "149--2--RAYGUN+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "RAYGUN .jpeg",
-        "sourcePath": "RAYGUN .jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
         "isCover": false
       }
@@ -550,45 +319,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "150--1--RAYGUN+Clarence+Ave+1.jpg",
-        "sourcePath": "150--1--RAYGUN+Clarence+Ave+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "150--4--RAYGUN+Clarence+Ave+4.jpg",
-        "sourcePath": "150--4--RAYGUN+Clarence+Ave+4.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "150--5--RAYGUN+Clarence+Ave+5.jpg",
-        "sourcePath": "150--5--RAYGUN+Clarence+Ave+5.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Raygun 1.jpeg",
-        "sourcePath": "Raygun 1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "Raygun 2.jpeg",
-        "sourcePath": "Raygun 2.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Raygun 3.jpeg",
-        "sourcePath": "Raygun 3.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -609,45 +357,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "151--1--Raygun+page+1.jpg",
-        "sourcePath": "151--1--Raygun+page+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "151--2--Raygun+page+2.jpg",
-        "sourcePath": "151--2--Raygun+page+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "151--3--Raygun+page+3.jpg",
-        "sourcePath": "151--3--Raygun+page+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "151--4--Raygun+page+4.jpg",
-        "sourcePath": "151--4--Raygun+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "151--5--Raygun+page+5.jpg",
-        "sourcePath": "151--5--Raygun+page+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "151--6--Raygun+page+6.jpg",
-        "sourcePath": "151--6--Raygun+page+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -668,18 +395,25 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "153--1--Time+Out+Kate+2001.jpg",
-        "sourcePath": "153--1--Time+Out+Kate+2001.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "153--2--Time+Out+Kate+cover+2001.jpg",
-        "sourcePath": "153--2--Time+Out+Kate+cover+2001.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
-        "isCover": true
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
+        "isCover": false
       }
     ]
   },
@@ -699,45 +433,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "154--1--Diamonds-1.jpg",
-        "sourcePath": "154--1--Diamonds-1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "154--2--Diamonds-2.jpg",
-        "sourcePath": "154--2--Diamonds-2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "154--3--Diamonds-3-4.jpg",
-        "sourcePath": "154--3--Diamonds-3-4.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "154--4--Diamonds-05_fin.jpg",
-        "sourcePath": "154--4--Diamonds-05_fin.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "154--5--Diamonds-6.jpg",
-        "sourcePath": "154--5--Diamonds-6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "154--6--Diamonds-8.jpg",
-        "sourcePath": "154--6--Diamonds-8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -758,17 +471,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "155--1--Vogue+UK+Sofia+Coppola+1.jpg",
-        "sourcePath": "155--1--Vogue+UK+Sofia+Coppola+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "155--2--Vogue+UK+Sofia+Coppola.jpg",
-        "sourcePath": "155--2--Vogue+UK+Sofia+Coppola.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
         "isCover": false
       }
     ]
@@ -789,66 +509,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "156--1--The+morning+after+1.jpg",
-        "sourcePath": "156--1--The+morning+after+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "156--2--The+morning+after+2.jpg",
-        "sourcePath": "156--2--The+morning+after+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "156--3--The+morning+after+3.jpg",
-        "sourcePath": "156--3--The+morning+after+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "156--4--The+morning+after+4.jpg",
-        "sourcePath": "156--4--The+morning+after+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "156--5--The+morning+after+5.jpg",
-        "sourcePath": "156--5--The+morning+after+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "156--6--The+morning+after+6.jpg",
-        "sourcePath": "156--6--The+morning+after+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "156--7--The+morning+after+7.jpg",
-        "sourcePath": "156--7--The+morning+after+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "156--8--The+morning+after+8.jpg",
-        "sourcePath": "156--8--The+morning+after+8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue January 2002 the morning after the year before.jpeg",
-        "sourcePath": "Vogue January 2002 the morning after the year before.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
         "isCover": false
       }
     ]
@@ -869,31 +547,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "157--1--Grace+1+copy.jpg",
-        "sourcePath": "157--1--Grace+1+copy.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "157--2--UK+Vogue+++1.jpg",
-        "sourcePath": "157--2--UK+Vogue+++1.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "157--3--UK+Vogue++.jpg",
-        "sourcePath": "157--3--UK+Vogue++.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "157--4--Vogue+July+2001+Angela+page+2+copy.jpg",
-        "sourcePath": "157--4--Vogue+July+2001+Angela+page+2+copy.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
         "isCover": false
       }
     ]
@@ -914,17 +585,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "158--1--Island+life+1.jpg",
-        "sourcePath": "158--1--Island+life+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "158--2--Island+life+2.jpg",
-        "sourcePath": "158--2--Island+life+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
         "isCover": false
       }
     ]
@@ -945,18 +623,25 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "159--1--UK+Vogue+Natalie+Portman+2+1.jpg",
-        "sourcePath": "159--1--UK+Vogue+Natalie+Portman+2+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "159--2--UK+Vogue+Natalie+Portman+cover.jpg",
-        "sourcePath": "159--2--UK+Vogue+Natalie+Portman+cover.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
-        "isCover": true
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
+        "isCover": false
       }
     ]
   },
@@ -976,23 +661,23 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "160--1--Scent+Crazy+page+1.jpg",
-        "sourcePath": "160--1--Scent+Crazy+page+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "160--2--Scent+Crazy+page+2.jpg",
-        "sourcePath": "160--2--Scent+Crazy+page+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Vogue November 2000 Scent crazy.jpeg",
-        "sourcePath": "Vogue November 2000 Scent crazy.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
         "isCover": false
       }
@@ -1014,80 +699,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "161--1--UK+Vogue+Sundown+1.jpg",
-        "sourcePath": "161--1--UK+Vogue+Sundown+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "161--2--UK+Vogue+Sundown+2.jpg",
-        "sourcePath": "161--2--UK+Vogue+Sundown+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "161--3--UK+Vogue+Sundown+3.jpg",
-        "sourcePath": "161--3--UK+Vogue+Sundown+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "161--4--UK+Vogue+Sundown+4.jpg",
-        "sourcePath": "161--4--UK+Vogue+Sundown+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "161--5--UK+Vogue+Sundown+5.jpg",
-        "sourcePath": "161--5--UK+Vogue+Sundown+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "161--6--UK+Vogue+Sundown+6.jpg",
-        "sourcePath": "161--6--UK+Vogue+Sundown+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "161--7--UK+Vogue+Sundown+7.jpg",
-        "sourcePath": "161--7--UK+Vogue+Sundown+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "161--8--UK+Vogue+Sundown+8.jpg",
-        "sourcePath": "161--8--UK+Vogue+Sundown+8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "161--9--UK+Vogue+Sundown+9.jpg",
-        "sourcePath": "161--9--UK+Vogue+Sundown+9.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "123--2--British+Vogue-02_v2CMYK.jpg",
-        "sourcePath": "123--2--British+Vogue-02_v2CMYK.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "123--11--British+Vogue-21_v3CMYK.jpg",
-        "sourcePath": "123--11--British+Vogue-21_v3CMYK.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 11,
         "isCover": false
       }
     ]
@@ -1108,17 +737,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "162--1--Vogue+UK+Tilda+Swinton+1.jpg",
-        "sourcePath": "162--1--Vogue+UK+Tilda+Swinton+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "162--2--Vogue+UK+Tilda+Swinton+3.jpg",
-        "sourcePath": "162--2--Vogue+UK+Tilda+Swinton+3.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
         "isCover": false
       }
     ]
@@ -1139,45 +775,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "163--1--Linda+Evangelista+1.jpg",
-        "sourcePath": "163--1--Linda+Evangelista+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "163--2--Linda+Evangelista+2.jpg",
-        "sourcePath": "163--2--Linda+Evangelista+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "163--3--Linda+Evangelista+3.jpg",
-        "sourcePath": "163--3--Linda+Evangelista+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "163--4--Linda+Evangelista+4.jpg",
-        "sourcePath": "163--4--Linda+Evangelista+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue May 1993 To hug and to hold 1.jpeg",
-        "sourcePath": "Vogue May 1993 To hug and to hold 1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue May 1993 To hug and to hold 2.jpeg",
-        "sourcePath": "Vogue May 1993 To hug and to hold 2.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -1198,80 +813,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "164--1--Casino+1.jpg",
-        "sourcePath": "164--1--Casino+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "164--2--Casino+2.jpg",
-        "sourcePath": "164--2--Casino+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "164--3--Casino+3.jpg",
-        "sourcePath": "164--3--Casino+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "164--4--Casino+4.jpg",
-        "sourcePath": "164--4--Casino+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "164--5--Casino+5.jpg",
-        "sourcePath": "164--5--Casino+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "164--6--Casino+6.jpg",
-        "sourcePath": "164--6--Casino+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "164--7--Casino+7.jpg",
-        "sourcePath": "164--7--Casino+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia August 2004 Starry Evening Look 2.jpeg",
-        "sourcePath": "Vogue Italia August 2004 Starry Evening Look 2.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "164--9--Casino+9.jpg",
-        "sourcePath": "164--9--Casino+9.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "164--10--Casino+10.jpg",
-        "sourcePath": "164--10--Casino+10.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia August 2004 Starry Evening Look 1.jpeg",
-        "sourcePath": "Vogue Italia August 2004 Starry Evening Look 1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 11,
         "isCover": false
       }
     ]
@@ -1292,164 +851,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "166--1--Ungaro+White+lamp.jpg",
-        "sourcePath": "166--1--Ungaro+White+lamp.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "166--2--Vogue++.jpg",
-        "sourcePath": "166--2--Vogue++.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "166--3--Ungaro+Aftermath.jpg",
-        "sourcePath": "166--3--Ungaro+Aftermath.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "166--4--Ungaro+dishes.jpg",
-        "sourcePath": "166--4--Ungaro+dishes.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "166--5--Ungaro+Fag.jpg",
-        "sourcePath": "166--5--Ungaro+Fag.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "166--6--Ungaro+Floored.jpg",
-        "sourcePath": "166--6--Ungaro+Floored.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "166--7--Ungaro+Gun+finger.jpg",
-        "sourcePath": "166--7--Ungaro+Gun+finger.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "166--9--Ungaro+Open+tree.jpg",
-        "sourcePath": "166--9--Ungaro+Open+tree.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "166--10--Ungaro+POOCH.jpg",
-        "sourcePath": "166--10--Ungaro+POOCH.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "166--11--Ungaro+Reflection.jpg",
-        "sourcePath": "166--11--Ungaro+Reflection.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "166--14--Ungaro+Swamp.jpg",
-        "sourcePath": "166--14--Ungaro+Swamp.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 14,
-        "isCover": false
-      },
-      {
-        "filename": "166--15--Ungaro+Thought.jpg",
-        "sourcePath": "166--15--Ungaro+Thought.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 15,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 1.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 16,
-        "isCover": true
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 10.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 10.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 17,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 11.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 11.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 18,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 12.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 12.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 19,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 2.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 2.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 20,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 3.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 3.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 21,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 4.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 22,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 5.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 23,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 6.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 24,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 7.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 25,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Italia Emanuel Ungaro Couture 9.jpeg",
-        "sourcePath": "Vogue Italia March 2000-2004 Emanuel Ungaro Couture/Vogue Italia Emanuel Ungaro Couture 9.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 26,
         "isCover": false
       }
     ]
@@ -1470,73 +889,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "167--1--Italian+Vogue-01.1_v2+.jpg",
-        "sourcePath": "167--1--Italian+Vogue-01.1_v2+.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "167--2--Italian+Vogue-02.1_v1+.jpg",
-        "sourcePath": "167--2--Italian+Vogue-02.1_v1+.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "167--3--Italian+Vogue-03_v2+.jpg",
-        "sourcePath": "167--3--Italian+Vogue-03_v2+.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "167--4--Italian+Vogue-04.1_v3.jpg",
-        "sourcePath": "167--4--Italian+Vogue-04.1_v3.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "167--5--Italian+Vogue-05_v1+.jpg",
-        "sourcePath": "167--5--Italian+Vogue-05_v1+.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "167--6--Italian+Vogue-07.1_v1.jpg",
-        "sourcePath": "167--6--Italian+Vogue-07.1_v1.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "167--7--Italian+Vogue-07.3_v3+.jpg",
-        "sourcePath": "167--7--Italian+Vogue-07.3_v3+.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "167--8--Italian+Vogue-08_v1.jpg",
-        "sourcePath": "167--8--Italian+Vogue-08_v1.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "167--9--Italian+Vogue-09_v1.jpg",
-        "sourcePath": "167--9--Italian+Vogue-09_v1.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "167--10--Italian+Vogue-10_v2+.jpg",
-        "sourcePath": "167--10--Italian+Vogue-10_v2+.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
         "isCover": false
       }
     ]
@@ -1557,22 +927,22 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "168--1--Jane+Birkin++1.jpg",
-        "sourcePath": "168--1--Jane+Birkin++1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "168--2--Jane+Birkin++2.jpg",
-        "sourcePath": "168--2--Jane+Birkin++2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "168--3--Jane+Birkin+.jpg",
-        "sourcePath": "168--3--Jane+Birkin+.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
         "isCover": false
@@ -1595,45 +965,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "10 Magazine Winter 2002 Tribal Gathering P1.jpeg",
-        "sourcePath": "10 Magazine Winter 2002 Tribal Gathering/10 Magazine Winter 2002 Tribal Gathering P1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 0,
-        "isCover": false
-      },
-      {
-        "filename": "Tribal Gathering   P1.jpeg",
-        "sourcePath": "Tribal Gathering   P1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "Tribal Gathering   P2.jpeg",
-        "sourcePath": "Tribal Gathering   P2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Tribal Gathering   P3.jpeg",
-        "sourcePath": "Tribal Gathering   P3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Tribal Gathering  P4.jpeg",
-        "sourcePath": "Tribal Gathering  P4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "10 Magazine Winter 2002 Tribal Gathering P5.jpeg",
-        "sourcePath": "10 Magazine Winter 2002 Tribal Gathering/10 Magazine Winter 2002 Tribal Gathering P5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
         "isCover": false
       }
     ]
@@ -1654,73 +1003,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "172--1--Dazed+%26+Confused+page+1.jpg",
-        "sourcePath": "172--1--Dazed+%26+Confused+page+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "172--2--Dazed+%26+Confused+page+2.jpg",
-        "sourcePath": "172--2--Dazed+%26+Confused+page+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "172--3--Dazed+%26+Confused+page+3.jpg",
-        "sourcePath": "172--3--Dazed+%26+Confused+page+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "172--4--Dazed+%26+Confused+page+4.jpg",
-        "sourcePath": "172--4--Dazed+%26+Confused+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "172--5--Dazed+%26+Confused+page+5.jpg",
-        "sourcePath": "172--5--Dazed+%26+Confused+page+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "172--6--Dazed+%26+Confused+page+6.jpg",
-        "sourcePath": "172--6--Dazed+%26+Confused+page+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "172--7--Dazed+%26+Confused+page+7.jpg",
-        "sourcePath": "172--7--Dazed+%26+Confused+page+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "172--8--Dazed+%26+Confused+page+8.jpg",
-        "sourcePath": "172--8--Dazed+%26+Confused+page+8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "172--9--Dazed+%26+Confused+page+9.jpg",
-        "sourcePath": "172--9--Dazed+%26+Confused+page+9.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "172--10--Dazed+%26+Confused+page+10.jpg",
-        "sourcePath": "172--10--Dazed+%26+Confused+page+10.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
         "isCover": false
       }
     ]
@@ -1741,66 +1041,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "173--1--ITALIAN+Donna+Rose+1.jpg",
-        "sourcePath": "173--1--ITALIAN+Donna+Rose+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "173--2--ITALIAN+Donna+Rose+2.jpg",
-        "sourcePath": "173--2--ITALIAN+Donna+Rose+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "173--3--ITALIAN+DONNA+Rose+3.jpg",
-        "sourcePath": "173--3--ITALIAN+DONNA+Rose+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "173--4--ITALIAN+DONNA+Rose+4.jpg",
-        "sourcePath": "173--4--ITALIAN+DONNA+Rose+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "173--5--ITALIAN+DONNA+Rose+5.jpg",
-        "sourcePath": "173--5--ITALIAN+DONNA+Rose+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "173--6--ITALIAN+Donna+Rose+6.jpg",
-        "sourcePath": "173--6--ITALIAN+Donna+Rose+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "173--7--ITALIAN+Donna+Rose+7.jpg",
-        "sourcePath": "173--7--ITALIAN+Donna+Rose+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "Donna September 1993 lusso italiano e gusto inglese P1.jpeg",
-        "sourcePath": "Donna September 1993 lusso italiano e gusto inglese/Donna September 1993 lusso italiano e gusto inglese P1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "Donna September 1993 lusso italiano e gusto inglese.jpeg",
-        "sourcePath": "Donna September 1993 lusso italiano e gusto inglese/Donna September 1993 lusso italiano e gusto inglese.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
         "isCover": false
       }
     ]
@@ -1821,143 +1079,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "174--1--DUTCH+BLACKPOOL+2000+George+%26+Stripper.jpg",
-        "sourcePath": "174--1--DUTCH+BLACKPOOL+2000+George+%26+Stripper.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "174--2--DUTCH+BLACKPOOL+2000+Rose+%26+George+in+Mirror.jpg",
-        "sourcePath": "174--2--DUTCH+BLACKPOOL+2000+Rose+%26+George+in+Mirror.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "174--3--DUTCH+BLACKPOOL+2000.jpg",
-        "sourcePath": "174--3--DUTCH+BLACKPOOL+2000.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "174--4--DUTCH+BLACKPOOL+2001++Rose+George+%26+Kate+on+the+street.jpg",
-        "sourcePath": "174--4--DUTCH+BLACKPOOL+2001++Rose+George+%26+Kate+on+the+street.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "174--5--DUTCH+BLACKPOOL+2001++Rose+on+the+beach.jpg",
-        "sourcePath": "174--5--DUTCH+BLACKPOOL+2001++Rose+on+the+beach.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "174--6--DUTCH+BLACKPOOL+2001+George+in+back+yard.jpg",
-        "sourcePath": "174--6--DUTCH+BLACKPOOL+2001+George+in+back+yard.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "174--7--DUTCH+BLACKPOOL+2001+George+on+the+beach.jpg",
-        "sourcePath": "174--7--DUTCH+BLACKPOOL+2001+George+on+the+beach.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "174--8--DUTCH+BLACKPOOL+2001+George+skull+portrait.jpg",
-        "sourcePath": "174--8--DUTCH+BLACKPOOL+2001+George+skull+portrait.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "174--9--DUTCH+BLACKPOOL+2001+Kate+%26+Rose+in+mirror.jpg",
-        "sourcePath": "174--9--DUTCH+BLACKPOOL+2001+Kate+%26+Rose+in+mirror.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "174--10--DUTCH+BLACKPOOL+2001+Kate+%26+Rose+in+strip+bar.jpg",
-        "sourcePath": "174--10--DUTCH+BLACKPOOL+2001+Kate+%26+Rose+in+strip+bar.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "174--11--DUTCH+BLACKPOOL+2001+Kate+%26+Rose+watching+TV.jpg",
-        "sourcePath": "174--11--DUTCH+BLACKPOOL+2001+Kate+%26+Rose+watching+TV.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "174--12--DUTCH+BLACKPOOL+2001+Kate+%26+slash+curtain.jpg",
-        "sourcePath": "174--12--DUTCH+BLACKPOOL+2001+Kate+%26+slash+curtain.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 12,
-        "isCover": false
-      },
-      {
-        "filename": "174--13--DUTCH+BLACKPOOL+2001+Kate+dagger+portrait.jpg",
-        "sourcePath": "174--13--DUTCH+BLACKPOOL+2001+Kate+dagger+portrait.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 13,
-        "isCover": false
-      },
-      {
-        "filename": "174--14--DUTCH+BLACKPOOL+2001+Kate+in+back+yard.jpg",
-        "sourcePath": "174--14--DUTCH+BLACKPOOL+2001+Kate+in+back+yard.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 14,
-        "isCover": false
-      },
-      {
-        "filename": "174--15--DUTCH+BLACKPOOL+2001+Rose+in+back+yard.jpg",
-        "sourcePath": "174--15--DUTCH+BLACKPOOL+2001+Rose+in+back+yard.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 15,
-        "isCover": false
-      },
-      {
-        "filename": "174--16--DUTCH+BLACKPOOL+2001+Rose+on+black+leather+sofa.jpg",
-        "sourcePath": "174--16--DUTCH+BLACKPOOL+2001+Rose+on+black+leather+sofa.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 16,
-        "isCover": false
-      },
-      {
-        "filename": "174--17--DUTCH+BLACKPOOL+2001+Rose+portrait+with+beach.jpg",
-        "sourcePath": "174--17--DUTCH+BLACKPOOL+2001+Rose+portrait+with+beach.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 17,
-        "isCover": false
-      },
-      {
-        "filename": "174--18--DUTCH+Blackpool+Kate+portrait.jpg",
-        "sourcePath": "174--18--DUTCH+Blackpool+Kate+portrait.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 18,
-        "isCover": false
-      },
-      {
-        "filename": "174--19--George+%26+feet+on+yellow+bed.jpg",
-        "sourcePath": "174--19--George+%26+feet+on+yellow+bed.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 19,
-        "isCover": false
-      },
-      {
-        "filename": "174--20--Kate+in+helmet.jpg",
-        "sourcePath": "174--20--Kate+in+helmet.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 20,
         "isCover": false
       }
     ]
@@ -1978,45 +1117,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "175--1--Vincent+in+bed.jpg",
-        "sourcePath": "175--1--Vincent+in+bed.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "175--2--Vincent+on+the+loo.jpg",
-        "sourcePath": "175--2--Vincent+on+the+loo.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "175--3--Vincent+on+the+phone.jpg",
-        "sourcePath": "175--3--Vincent+on+the+phone.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "175--4--Vincent+on+the+sofa.jpg",
-        "sourcePath": "175--4--Vincent+on+the+sofa.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "175--5--Vincent+pissed.jpg",
-        "sourcePath": "175--5--Vincent+pissed.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "175--6--Vincent+portrait.jpg",
-        "sourcePath": "175--6--Vincent+portrait.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -2037,178 +1155,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "176--1--Stinky+Finger+1.jpg",
-        "sourcePath": "176--1--Stinky+Finger+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "176--2--Stinky+Finger+2.jpg",
-        "sourcePath": "176--2--Stinky+Finger+2.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "176--3--Stinky+Finger+3.jpg",
-        "sourcePath": "176--3--Stinky+Finger+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "176--4--Stinky+Finger+4.jpg",
-        "sourcePath": "176--4--Stinky+Finger+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "176--5--Stinky+Finger+5.jpg",
-        "sourcePath": "176--5--Stinky+Finger+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "176--6--Stinky+Finger+6.jpg",
-        "sourcePath": "176--6--Stinky+Finger+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "176--7--Stinky+Finger+7.jpg",
-        "sourcePath": "176--7--Stinky+Finger+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "176--8--Stinky+Finger+8.jpg",
-        "sourcePath": "176--8--Stinky+Finger+8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "176--9--Stinky+Finger+9.jpg",
-        "sourcePath": "176--9--Stinky+Finger+9.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "176--10--Stinky+Finger+10.jpg",
-        "sourcePath": "176--10--Stinky+Finger+10.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 0.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 0.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 1.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 10.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 10.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 12,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 11.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 11.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 13,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 13.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 13.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 14,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 14.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 14.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 15,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 2.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 2.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 16,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 3.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 3.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 17,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 4.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 18,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 5.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 19,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 6.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 20,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 7.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 21,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 8.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 8.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 22,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger 9.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger 9.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 23,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine September 2001 Stinky Finger.jpeg",
-        "sourcePath": "Dutch Magazine September 2001 Stinky Finger/Dutch Magazine September 2001 Stinky Finger.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 24,
         "isCover": false
       }
     ]
@@ -2229,52 +1193,24 @@
     "isMusician": true,
     "images": [
       {
-        "filename": "177--1--FACE+August+1992.jpg",
-        "sourcePath": "177--1--FACE+August+1992.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "177--2--DPH0023Z_05.jpg",
-        "sourcePath": "177--2--DPH0023Z_05.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "177--3--DPH0023Z_06.jpg",
-        "sourcePath": "177--3--DPH0023Z_06.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "177--4--03.jpg",
-        "sourcePath": "177--4--03.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "177--5--DPH0023Z_07.jpg",
-        "sourcePath": "177--5--DPH0023Z_07.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Red Hot Chilli Peppers 1.jpeg",
-        "sourcePath": "RED HOT CHILLY PEPPERS/FACE Red Hot Chilli Peppers 1.jpeg",
-        "source": "master-musician-page-2019-08-16",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Red Hot Chilli Peppers 2.jpeg",
-        "sourcePath": "RED HOT CHILLY PEPPERS/FACE Red Hot Chilli Peppers 2.jpeg",
-        "source": "master-musician-page-2019-08-16",
-        "order": 7,
         "isCover": false
       }
     ]
@@ -2295,59 +1231,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "FACE cover June 1992 Rose Young Style Rebels.jpeg",
-        "sourcePath": "FACE cover June 1992 Rose Young Style Rebels.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
-        "isCover": true
+        "isCover": false
       },
       {
-        "filename": "179--1--FACE+Young+style+Rebels+1.jpg",
-        "sourcePath": "179--1--FACE+Young+style+Rebels+1.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "179--3--Scan+page+1.jpg",
-        "sourcePath": "179--3--Scan+page+1.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "179--4--Scan+page+2.jpg",
-        "sourcePath": "179--4--Scan+page+2.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "179--5--Scan+page+3.jpg",
-        "sourcePath": "179--5--Scan+page+3.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "179--6--Scan+page+4.jpg",
-        "sourcePath": "179--6--Scan+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "179--7--Scan+page+5.jpg",
-        "sourcePath": "179--7--Scan+page+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "179--8--Scan+page+6.jpg",
-        "sourcePath": "179--8--Scan+page+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
         "isCover": false
       }
     ]
@@ -2368,66 +1269,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "181--1--FACE+1.+Suzanna%2C+Liz+%26+Grant.jpg",
-        "sourcePath": "181--1--FACE+1.+Suzanna%2C+Liz+%26+Grant.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "181--2--FACE+2.+Grant+%26+Suzanna.jpg",
-        "sourcePath": "181--2--FACE+2.+Grant+%26+Suzanna.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "181--3--FACE+3.+Grant+%26+Liz.jpg",
-        "sourcePath": "181--3--FACE+3.+Grant+%26+Liz.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "181--4--FACE+4.+Liz+%26+Grant.jpg",
-        "sourcePath": "181--4--FACE+4.+Liz+%26+Grant.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "181--5--FACE+5.+Liz+in+the+pub+sepia.jpg",
-        "sourcePath": "181--5--FACE+5.+Liz+in+the+pub+sepia.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "181--6--FACE+6.+Grant+PingPong.jpg",
-        "sourcePath": "181--6--FACE+6.+Grant+PingPong.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "181--7--FACE+7.+Liz+gets+up.jpg",
-        "sourcePath": "181--7--FACE+7.+Liz+gets+up.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "181--8--FACE+8.+Grant.jpg",
-        "sourcePath": "181--8--FACE+8.+Grant.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "FACE September 1990 Keeping it real.jpg",
-        "sourcePath": "FACE September 1990 Keeping it real.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
         "isCover": false
       }
     ]
@@ -2448,66 +1307,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "Vogue Paris July 2001 JAMAIQUE SAFARI P1.jpeg",
-        "sourcePath": "French Vogue July 2001 JAMAIQUE SAFARI/Vogue Paris July 2001 JAMAIQUE SAFARI P1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "Vogue Paris July 2001 JAMAIQUE SAFARI P2.jpeg",
-        "sourcePath": "French Vogue July 2001 JAMAIQUE SAFARI/Vogue Paris July 2001 JAMAIQUE SAFARI P2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Vogue Paris June July 2001 Jamaique Safari P3.jpeg",
-        "sourcePath": "French Vogue July 2001 JAMAIQUE SAFARI/Vogue Paris June July 2001 Jamaique Safari P3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Paris June July 2001 Jamaique Safari P4.jpeg",
-        "sourcePath": "French Vogue July 2001 JAMAIQUE SAFARI/Vogue Paris June July 2001 Jamaique Safari P4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "182--3--Jamaique+Safari+page+3.jpg",
-        "sourcePath": "182--3--Jamaique+Safari+page+3.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "182--4--Jamaique+Safari+page+4.jpg",
-        "sourcePath": "182--4--Jamaique+Safari+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "182--5--Jamaique+Safari+page+5.jpg",
-        "sourcePath": "182--5--Jamaique+Safari+page+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "182--6--Jamaique+Safari+page+6.jpg",
-        "sourcePath": "182--6--Jamaique+Safari+page+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "182--7--Jamaique+Safari+page+7.jpg",
-        "sourcePath": "182--7--Jamaique+Safari+page+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
         "isCover": false
       }
     ]
@@ -2528,45 +1345,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "183--1--i-D+Cover.jpg",
-        "sourcePath": "183--1--i-D+Cover.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "183--2--i-D+page+1.jpg",
-        "sourcePath": "183--2--i-D+page+1.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "183--3--i-D+page+2.jpg",
-        "sourcePath": "183--3--i-D+page+2.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "183--4--i-D+page+3.jpg",
-        "sourcePath": "183--4--i-D+page+3.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "183--5--i-D+page+4.jpg",
-        "sourcePath": "183--5--i-D+page+4.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "183--6--iD+page+5.jpg",
-        "sourcePath": "183--6--iD+page+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -2587,17 +1383,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "186--1--iD+THE+ORIGINAL+ISSUE+SEPT+2000+1.jpg",
-        "sourcePath": "186--1--iD+THE+ORIGINAL+ISSUE+SEPT+2000+1.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "186--2--iD+THE+ORIGINAL+ISSUE+SEPT+2000.jpg",
-        "sourcePath": "186--2--iD+THE+ORIGINAL+ISSUE+SEPT+2000.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
         "isCover": false
       }
     ]
@@ -2618,10 +1421,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "Sarah the morning after.jpeg",
-        "sourcePath": "Sarah the morning after.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
+        "isCover": false
+      },
+      {
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 2,
+        "isCover": false
+      },
+      {
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
+        "order": 3,
         "isCover": false
       }
     ]
@@ -2642,45 +1459,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "188--4--iD+Sarah+Murray+4.jpg",
-        "sourcePath": "188--4--iD+Sarah+Murray+4.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
-        "isCover": true
+        "isCover": false
       },
       {
-        "filename": "188--1--iD+Sarah+Murray+1.jpg",
-        "sourcePath": "188--1--iD+Sarah+Murray+1.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "188--3--iD+Sarah+Murray+3.jpg",
-        "sourcePath": "188--3--iD+Sarah+Murray+3.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "188--2--iD+Sarah+Murray+2.jpg",
-        "sourcePath": "188--2--iD+Sarah+Murray+2.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "iD June 1993 The Screen Issue.jpeg",
-        "sourcePath": "iD June 1993 The Screen Issue.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "188--5--iD+Sarah+Murray+5.jpg",
-        "sourcePath": "188--5--iD+Sarah+Murray+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -2701,23 +1497,23 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "189--1--iD+THE+TALENT+ISSUE+George.jpg",
-        "sourcePath": "189--1--iD+THE+TALENT+ISSUE+George.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "189--2--iD+THE+TALENT+ISSUE+Tania.jpg",
-        "sourcePath": "189--2--iD+THE+TALENT+ISSUE+Tania.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "iD Feb 1994 The Talent Issue p1.jpeg",
-        "sourcePath": "iD Feb 1994 The Talent Issue p1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
         "isCover": false
       }
@@ -2739,45 +1535,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "191--1--Donna+Sept+1995+rude+girls+3.jpg",
-        "sourcePath": "191--1--Donna+Sept+1995+rude+girls+3.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "191--2--Donna+Sept+1995+rude+girls+4+copy.jpg",
-        "sourcePath": "191--2--Donna+Sept+1995+rude+girls+4+copy.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "191--3--Donna+Sept+1995+rude+girls+6.jpg",
-        "sourcePath": "191--3--Donna+Sept+1995+rude+girls+6.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "191--4--Donna+Sept+1995+rude+girls+page+3+copy.jpg",
-        "sourcePath": "191--4--Donna+Sept+1995+rude+girls+page+3+copy.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "191--5--Donna+Sept+1995+rude+girls.jpg",
-        "sourcePath": "191--5--Donna+Sept+1995+rude+girls.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Donna September 1995 rude girls page 2 copy.jpg",
-        "sourcePath": "Donna September 1995 rude girls page 2 copy.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -2798,108 +1573,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "193--1--new+spirit+p0+Kate+Moss+cover.jpg",
-        "sourcePath": "193--1--new+spirit+p0+Kate+Moss+cover.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
-        "isCover": true
+        "isCover": false
       },
       {
-        "filename": "Vogues eye view 15.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogues eye view 15.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Vogue Fashions New Spirit 8.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 8.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 4.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 13.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 13.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 12.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 12.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 1.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 1.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 2.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 2.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 9.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 9.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 7 copy.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 7 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 10.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 10.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 11.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 11.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 12,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 5.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 13,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 14.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 14.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 14,
-        "isCover": false
-      },
-      {
-        "filename": "Vogue Fashions New Spirit 3.jpeg",
-        "sourcePath": "Vogue March 1993 Fashions New Spirit/Vogue Fashions New Spirit 3.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 15,
         "isCover": false
       }
     ]
@@ -2920,59 +1611,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "Vogue Jan 2003 Sweet and Lowdown 1.jpeg",
-        "sourcePath": "Vogue Jan 2003 Sweet and Lowdown 1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "194--2--Sweet+and+Lowdown+438KB.jpg",
-        "sourcePath": "194--2--Sweet+and+Lowdown+438KB.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "194--3--Sweet+and+Lowdown+471KB.jpg",
-        "sourcePath": "194--3--Sweet+and+Lowdown+471KB.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "194--4--S%26L+476KB.jpg",
-        "sourcePath": "194--4--S%26L+476KB.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "194--5--S%26L+473KB.jpg",
-        "sourcePath": "194--5--S%26L+473KB.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "194--6--S%26L+450KB.jpg",
-        "sourcePath": "194--6--S%26L+450KB.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "194--7--S+%26+L+469KB.jpg",
-        "sourcePath": "194--7--S+%26+L+469KB.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "194--8--S%26L+474KB.jpg",
-        "sourcePath": "194--8--S%26L+474KB.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
         "isCover": false
       }
     ]
@@ -2993,80 +1649,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "196--1--Porque+te+vas%3F+3.jpg",
-        "sourcePath": "196--1--Porque+te+vas%3F+3.jpg",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "196--2--Porque+te+vas%3F+4.jpg",
-        "sourcePath": "196--2--Porque+te+vas%3F+4.jpg",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
         "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "196--3--Porque+te+vas%3F+13.jpg",
-        "sourcePath": "196--3--Porque+te+vas%3F+13.jpg",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
         "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "196--4--Porque+te+vas%3F+5.jpg",
-        "sourcePath": "196--4--Porque+te+vas%3F+5.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "196--5--Porque+te+vas%3F+7.jpg",
-        "sourcePath": "196--5--Porque+te+vas%3F+7.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "196--6--Porque+te+vas%3F+6.jpg",
-        "sourcePath": "196--6--Porque+te+vas%3F+6.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "196--7--Porque+te+vas%3F+8.jpg",
-        "sourcePath": "196--7--Porque+te+vas%3F+8.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "196--8--Porque+te+vas%3F+9.jpg",
-        "sourcePath": "196--8--Porque+te+vas%3F+9.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "196--9--Porque+te+vas%3F+10.jpg",
-        "sourcePath": "196--9--Porque+te+vas%3F+10.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "196--10--Porque+te+vas%3F+11.jpg",
-        "sourcePath": "196--10--Porque+te+vas%3F+11.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "196--11--Porque+te+vas%3F+12.jpg",
-        "sourcePath": "196--11--Porque+te+vas%3F+12.jpg",
-        "source": "squarespace-images-fashion",
-        "order": 11,
         "isCover": false
       }
     ]
@@ -3087,52 +1687,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "10 Magazine Autumn 2003 P1.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "10 Magazine Autumn 2003 P2.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "10 Magazine Autumn 2003 P3.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "10 Magazine Autumn 2003 P4.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "10 Magazine Autumn 2003 P5.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "10 Magazine Autumn 2003 P6.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "10 Magazine Autumn 2003 P7.jpeg",
-        "sourcePath": "10 Magazine Autumn 2003/10 Magazine Autumn 2003 P7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
         "isCover": false
       }
     ]
@@ -3153,59 +1725,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "Mums 1.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "Mums 2.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Mums 3.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Mums 4.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "Mums 5.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Mums 6.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "Mums 7.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "Mums 8.jpeg",
-        "sourcePath": "10 Magazine Summer 2003 Mums/Mums 8.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
         "isCover": false
       }
     ]
@@ -3226,31 +1763,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "ARENA Homme PLUS Spring 2003 1.jpeg",
-        "sourcePath": "ARENA Homme PLUS Spring 2003/ARENA Homme PLUS Spring 2003 1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "ARENA Homme PLUS Spring 2003 2.jpeg",
-        "sourcePath": "ARENA Homme PLUS Spring 2003/ARENA Homme PLUS Spring 2003 2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "ARENA Homme PLUS Spring 2003 3.jpeg",
-        "sourcePath": "ARENA Homme PLUS Spring 2003/ARENA Homme PLUS Spring 2003 3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "ARENA Homme PLUS Spring 2003 4.jpeg",
-        "sourcePath": "ARENA Homme PLUS Spring 2003/ARENA Homme PLUS Spring 2003 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
         "isCover": false
       }
     ]
@@ -3271,45 +1801,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "American Vogue January 1993 taking it easy P1.jpeg",
-        "sourcePath": "American Vogue January 1993 taking it easy P1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "American Vogue January 1993 taking it easy P2.jpeg",
-        "sourcePath": "American Vogue January 1993 taking it easy P2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "American Vogue January 1993 taking it easy P3.jpeg",
-        "sourcePath": "American Vogue January 1993 taking it easy P3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "American Vogue January 1993 taking it easy P4.jpeg",
-        "sourcePath": "American Vogue January 1993 taking it easy P4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "American Vogue January 1993 taking it easy P5.jpeg",
-        "sourcePath": "American Vogue January 1993 taking it easy P5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "American Vogue January 1993 Taking it easy P6.jpeg",
-        "sourcePath": "American Vogue January 1993 Taking it easy P6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -3330,101 +1839,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "BARNEYS DEPT STORE 1993 P1 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P1 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "BARNEYS DEPT STORE 1993 P2 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P2 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "BARNEYS DEPT STORE 1993 P3 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P3 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": true
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P4 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P4 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P5 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P5 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P6 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P6 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P7 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P7 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P8 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P8 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P9 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P9 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P10 copy.jpeg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P10 copy.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "BARNEYS DEPT STORE 1993 P11 copy.jpg",
-        "sourcePath": "BARNEYS DEPT STORE 1993 P11 copy.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "Barneys New York 1993 Cecilia.jpeg",
-        "sourcePath": "Barneys New York 1993 Cecilia.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 12,
-        "isCover": false
-      },
-      {
-        "filename": "Barneys New York 1993 Rose drinking milk.jpeg",
-        "sourcePath": "Barneys New York 1993 Rose drinking milk.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 13,
-        "isCover": false
-      },
-      {
-        "filename": "Barneys New York 1993.jpeg",
-        "sourcePath": "Barneys New York 1993.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 14,
         "isCover": false
       }
     ]
@@ -3445,45 +1877,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "Donna November 1994 TOKYO DECADANCE P1.jpeg",
-        "sourcePath": "Donna November 1994 TOKYO DECADANCE/Donna November 1994 TOKYO DECADANCE P1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "Donna November 1994 TOKYO DECADANCE P2.jpeg",
-        "sourcePath": "Donna November 1994 TOKYO DECADANCE/Donna November 1994 TOKYO DECADANCE P2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Donna November 1994 TOKYO DECADANCE P3.jpeg",
-        "sourcePath": "Donna November 1994 TOKYO DECADANCE/Donna November 1994 TOKYO DECADANCE P3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Donna November 1994 TOKYO DECADANCE P4.jpeg",
-        "sourcePath": "Donna November 1994 TOKYO DECADANCE/Donna November 1994 TOKYO DECADANCE P4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "Donna November 1994 TOKYO DECADANCE P5.jpeg",
-        "sourcePath": "Donna November 1994 TOKYO DECADANCE/Donna November 1994 TOKYO DECADANCE P5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Donna November 1994 TOKYO DECADANCE P6.jpeg",
-        "sourcePath": "Donna November 1994 TOKYO DECADANCE/Donna November 1994 TOKYO DECADANCE P6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
         "isCover": false
       }
     ]
@@ -3504,108 +1915,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "Dutch Magazine 2000 Youth Camp P1.jpg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P1.jpg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "Dutch Magazine 2000 Youth Camp P2.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "Dutch Magazine 2000 Youth Camp P3 .jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P3 .jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P4.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P5.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P6.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P7.jpg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P7.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P8.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P8.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P9.jpg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P9.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 9,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P10.jpg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P10.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 10,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P11.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P11.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 11,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P12.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P12.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 12,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P13.jpeg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P13.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 13,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P14.jpg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P14.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 14,
-        "isCover": false
-      },
-      {
-        "filename": "Dutch Magazine 2000 Youth Camp P15.jpg",
-        "sourcePath": "Dutch Magazine 2000 Youth Camp /Dutch Magazine 2000 Youth Camp P15.jpg",
-        "source": "website-update-images-2019-06-10",
-        "order": 15,
         "isCover": false
       }
     ]
@@ -3626,52 +1953,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "FACE August 1992 Wah Wah 1.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "FACE August 1992 Wah Wah 2.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "FACE August 1992 Wah Wah 4.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 4.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "FACE August 1992 Wah Wah 5.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "FACE August 1992 Wah Wah 6.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 6.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "FACE August 1992 Wah Wah 7.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "FACE August 1992 Wah Wah 8.jpeg",
-        "sourcePath": "FACE August 1992 Wah Wah 8.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
         "isCover": false
       }
     ]
@@ -3692,59 +1991,24 @@
     "isMusician": false,
     "images": [
       {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 1.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 1.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "sourcePath": "145--1--KILLING+MACHINE+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 1,
         "isCover": false
       },
       {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 2.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 2.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--2--london+fashion+Georgina+.jpg",
+        "sourcePath": "145--2--london+fashion+Georgina+.jpg",
+        "source": "squarespace-images-fashion",
         "order": 2,
         "isCover": false
       },
       {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 3.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 3.jpeg",
-        "source": "website-update-images-2019-06-10",
+        "filename": "145--3--RAYGUN+Georgina.jpg",
+        "sourcePath": "145--3--RAYGUN+Georgina.jpg",
+        "source": "squarespace-images-fashion",
         "order": 3,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 4.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 4.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 4,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 5.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 5.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 5,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 6 better quality.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 6 better quality.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 6,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 7.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 7.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 7,
-        "isCover": false
-      },
-      {
-        "filename": "FACE Jan 1994 PSYCHO BILLY 8.jpeg",
-        "sourcePath": "FACE Jan 1994 PSYCHO BILLY 8.jpeg",
-        "source": "website-update-images-2019-06-10",
-        "order": 8,
         "isCover": false
       }
     ]
