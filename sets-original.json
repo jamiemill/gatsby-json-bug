@@ -6,8 +6,8 @@
     "date": {
       "year": 2000,
       "month": 12,
-      "period": 1,
-      "day": 1
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -77,10 +77,10 @@
     "title": "Honeymoon Killers",
     "publicationID": "MIXTE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": 10,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -157,10 +157,10 @@
     "title": "Rose",
     "publicationID": "PENTHOUSE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1997,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -216,10 +216,10 @@
     "title": "Killing Machine",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1994,
+      "month": 8,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -254,10 +254,10 @@
     "title": "Colour me Ultra",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1996,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": true,
     "isFashion": true,
@@ -285,10 +285,10 @@
     "title": "Ciedils",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1995,
+      "month": 2,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -372,10 +372,10 @@
     "title": "GOTHS ON ACID",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1995,
+      "month": 6,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -501,10 +501,10 @@
     "title": "Modern Lovers",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1995,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -539,10 +539,10 @@
     "title": "Clarence Ave",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1994,
+      "month": 10,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -598,10 +598,10 @@
     "title": "In it together",
     "publicationID": "RAYGUN",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1996,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -657,10 +657,10 @@
     "title": "Kate Cover",
     "publicationID": "TIMEOUT",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2001,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -688,10 +688,10 @@
     "title": "Diamond Georgina",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
+      "year": 2003,
       "month": 12,
-      "period": 1,
-      "day": 1
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -748,9 +748,9 @@
     "publicationID": "VOGUE_UK",
     "date": {
       "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "month": 3,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -778,10 +778,10 @@
     "title": "The morning after the year before...",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2002,
+      "month": 1,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -858,10 +858,10 @@
     "title": "CASTAWAY Angela Lindvall",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2001,
+      "month": 7,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -903,10 +903,10 @@
     "title": "island Life",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": 7,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -934,10 +934,10 @@
     "title": "Natalie Portman",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2005,
+      "month": 10,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -966,9 +966,9 @@
     "publicationID": "VOGUE_UK",
     "date": {
       "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "month": 11,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1003,10 +1003,10 @@
     "title": "Californian girl",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2005,
+      "month": 4,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1097,10 +1097,10 @@
     "title": "Tilda Swinton",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
+      "year": 2005,
       "month": 12,
-      "period": 1,
-      "day": 1
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1128,10 +1128,10 @@
     "title": "To hug and to hold - Linda Evangelista",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1993,
+      "month": 5,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1187,10 +1187,10 @@
     "title": "Starry Evening Look",
     "publicationID": "VOGUE_IT",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2004,
+      "month": 8,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1281,10 +1281,10 @@
     "title": "Emanuel Ungaro Couture",
     "publicationID": "VOGUE_IT",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2004,
+      "month": 3,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1459,10 +1459,10 @@
     "title": "Daria Werbowy",
     "publicationID": "VOGUE_IT",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2004,
+      "month": 5,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1546,10 +1546,10 @@
     "title": "Jane Birkin",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": 1,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1584,10 +1584,10 @@
     "title": "Tribal Gathering",
     "publicationID": "10_MAGAZINE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2002,
+      "month": null,
+      "period": "WINTER",
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1643,10 +1643,10 @@
     "title": "",
     "publicationID": "DAZED_AND_CONFUSED",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1997,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1730,10 +1730,10 @@
     "title": "Lusso Italiano e Gusto Inglese",
     "publicationID": "DONNA",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1993,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1810,10 +1810,10 @@
     "title": "Blackpool",
     "publicationID": "DUTCH_MAGAZINE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2001,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -1967,10 +1967,10 @@
     "title": "Vincent Gallo",
     "publicationID": "DUTCH_MAGAZINE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2001,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2026,10 +2026,10 @@
     "title": "Stinky Finger",
     "publicationID": "DUTCH_MAGAZINE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2001,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2218,10 +2218,10 @@
     "title": "Red Hot Chili Peppers Rock 'n' Roll",
     "publicationID": "FACE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1992,
+      "month": 8,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2284,10 +2284,10 @@
     "title": "YOUNG STYLE REBELS",
     "publicationID": "FACE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1992,
+      "month": 6,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2357,10 +2357,10 @@
     "title": "Keeping it real",
     "publicationID": "FACE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1990,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2437,10 +2437,10 @@
     "title": "Jamaique Safari",
     "publicationID": "VOGUE_FR",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2001,
+      "month": 7,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2517,10 +2517,10 @@
     "title": "The Smart Issue",
     "publicationID": "ID",
     "date": {
-      "year": 2000,
+      "year": 1993,
       "month": 12,
-      "period": 1,
-      "day": 1
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2577,9 +2577,9 @@
     "publicationID": "ID",
     "date": {
       "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2607,10 +2607,10 @@
     "title": "The Physical Issue",
     "publicationID": "ID",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1992,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2631,10 +2631,10 @@
     "title": "The Screen Issue",
     "publicationID": "ID",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1993,
+      "month": 1,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2690,10 +2690,10 @@
     "title": "The Talent Issue",
     "publicationID": "ID",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1994,
+      "month": 2,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2728,10 +2728,10 @@
     "title": "Rude Girls",
     "publicationID": "DONNA",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1995,
+      "month": 9,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2787,10 +2787,10 @@
     "title": "Fashion's New Spirit",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1993,
+      "month": 3,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2909,10 +2909,10 @@
     "title": "Sweet and Lowdown",
     "publicationID": "VOGUE_UK",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": 1,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -2982,10 +2982,10 @@
     "title": "Porque te vas?",
     "publicationID": "VOGUE_FR",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2002,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3076,10 +3076,10 @@
     "title": "",
     "publicationID": "10_MAGAZINE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": null,
+      "period": "AUTUMN",
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3142,10 +3142,10 @@
     "title": "Mums",
     "publicationID": "10_MAGAZINE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": null,
+      "period": "SUMMER",
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3215,10 +3215,10 @@
     "title": "",
     "publicationID": "ARENA_HOMME_PLUS",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 2003,
+      "month": null,
+      "period": "SPRING",
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3260,10 +3260,10 @@
     "title": "Taking it easy",
     "publicationID": "VOGUE_US",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1993,
+      "month": 1,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3319,10 +3319,10 @@
     "title": "Barneys New York",
     "publicationID": "BARNEYS",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1993,
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3434,10 +3434,10 @@
     "title": "Tokyo Decadance",
     "publicationID": "DONNA",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1994,
+      "month": 11,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3494,9 +3494,9 @@
     "publicationID": "DUTCH_MAGAZINE",
     "date": {
       "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "month": null,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3615,10 +3615,10 @@
     "title": "Wah Wah",
     "publicationID": "FACE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1992,
+      "month": 8,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
@@ -3681,10 +3681,10 @@
     "title": "Psycho Billy",
     "publicationID": "FACE",
     "date": {
-      "year": 2000,
-      "month": 12,
-      "period": 1,
-      "day": 1
+      "year": 1994,
+      "month": 1,
+      "period": null,
+      "day": null
     },
     "dateIsApprox": false,
     "isFashion": true,
